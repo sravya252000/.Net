@@ -1,0 +1,6 @@
+C:\Users\SRAVYA\source\repos\Healthcare Appointment Booking System\Testcases\bin\Debug\net8.0\CoverletSourceRootsMapping_Testcases
+C:\Users\SRAVYA\source\repos\Healthcare Appointment Booking System\Testcases\obj\Debug\net8.0\Testcases.csproj.AssemblyReference.cache
+C:\Users\SRAVYA\source\repos\Healthcare Appointment Booking System\Testcases\obj\Debug\net8.0\Testcases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SRAVYA\source\repos\Healthcare Appointment Booking System\Testcases\obj\Debug\net8.0\Testcases.AssemblyInfoInputs.cache
+C:\Users\SRAVYA\source\repos\Healthcare Appointment Booking System\Testcases\obj\Debug\net8.0\Testcases.AssemblyInfo.cs
+C:\Users\SRAVYA\source\repos\Healthcare Appointment Booking System\Testcases\obj\Debug\net8.0\Testcases.csproj.CoreCompileInputs.cache
